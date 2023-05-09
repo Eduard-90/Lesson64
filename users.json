@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "645a7a3011efa70fdf90f5e8"
+  },
+  "name": "Mike",
+  "age": 25,
+  "status": "I'm learning angular",
+  "avatar": "https://i.pravatar.cc/150?img=12"
+},{
+  "_id": {
+    "$oid": "645a7a3011efa70fdf90f5e9"
+  },
+  "name": "Nikola",
+  "age": 32,
+  "status": "Playing piano",
+  "avatar": "https://i.pravatar.cc/150?img=11"
+}]
